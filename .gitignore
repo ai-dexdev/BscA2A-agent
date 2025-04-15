@@ -1,0 +1,10 @@
+node_modules
+.genkit
+.firebase
+.a2a-tasks
+.env
+config.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
